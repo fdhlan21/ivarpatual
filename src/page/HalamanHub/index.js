@@ -14,7 +14,7 @@ const HalamanHubungiKami = () => {
  <InfoBubble  width={100} height={100} fill='#009895' />
    </View>
 
-   <Text style={{fontFamily:'Poppins-Regular', fontSize:12, textAlign:'center'}}>Pertanyaan bisa lansung disampaikan melalui E-Mail:</Text>
+   <Text style={{fontFamily:'Poppins-Regular', fontSize:12, textAlign:'center'}}>Pertanyaan bisa langsung disampaikan melalui E-Mail:</Text>
 
 <View style={{padding:10, paddingTop:20}}>
 <View style={{justifyContent:'flex-start', padding:10, flexDirection:'row', backgroundColor:colors.primary, borderBottomRightRadius:10, borderTopLeftRadius:10, }}>
@@ -24,7 +24,7 @@ const HalamanHubungiKami = () => {
 </View>
 
 <Text style={{fontFamily:'Poppins-Regular', textAlign:'center', paddingTop:10}}>ATAU</Text>
-<Text style={{fontFamily:'Poppins-Regular', textAlign:'center', paddingTop:10}}>Bisa datang lansung ke kantor Pengadilan Agama Tual, Yang Beralamat Di: Jl. Jendral Soedirman, Choijang-Langgur 97610</Text>
+<Text style={{fontFamily:'Poppins-Regular', textAlign:'center', paddingTop:10}}>Bisa datang langsung ke kantor Pengadilan Agama Tual, yang beralamat di, Jl. Jendral Soedirman, Choijang-Langgur 97610</Text>
 <View style={{padding:10, paddingTop:20}}>
 <View style={{justifyContent:'flex-start', padding:10, flexDirection:'row', backgroundColor:colors.primary, borderBottomRightRadius:10, borderTopLeftRadius:10, }}>
 <PhoneIcon2  width={30} height={30}  />
